@@ -10,11 +10,11 @@
 
   - Download the sample project https://github.com/andrewczwu/htmlworkshop
 - Walkthrough of sample project
-  - Html structure (Pages, Elements, Tags, Attributes)
+  - Html structure (Pages, Elements, Tags, Attributes) https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
   - Tree structure of Html
   - Introducing Chrome Dev Tools
   - Basic Html elements (span, div, lists, table, links)
-  - CSS (specifiers, syntax)
+  - CSS (specifiers, syntax) https://developer.mozilla.org/en-US/docs/Learn/CSS
 - Hosting a webpage
   - Github pages example walkthrough https://docs.github.com/en/pages/quickstart
   - Other possibilities (Wix, SquareSpace, Wordpress hosting)
